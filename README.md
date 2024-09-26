@@ -1,2 +1,2 @@
 # Hibernate
-Enttity based JPA
+Entity based JPA
